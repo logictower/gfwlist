@@ -27,9 +27,13 @@
 ||tiktok.com
 ||feixiaoquan.com
 ||feixiaohao.cc
+||feixiaohao.co
 ||feixiaohao.com
 ||feixiaoquan.cc
 ||tradingview.com
+||github.com
+||githubusercontent.com
+||doubleclick.net
 !----------------update ruels by LogicTower end-----------------
 ||afreecatv.com
 ||agnesb.fr
