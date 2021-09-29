@@ -1,5 +1,7 @@
 ## This is fork from [gfwlist](https://github.com/gfwlist/gfwlist) edit for my personal use
 
+https://raw.githubusercontent.com/logictower/gfwlist/master/gfwlist2.txt
+
 file gfwlist.txt is base64 compressed file  
 
 ```
