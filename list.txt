@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: MvjIdEYQt/Mbx9iFENjhZw
+! Checksum: fSxKD6PFsqRbD8Bx/i/9Pw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 29 Sep 2021 19:19:27 +0800
+! Last Modified: Fri, 01 Oct 2021 17:23:14 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -34,6 +34,8 @@
 ||github.com
 ||githubusercontent.com
 ||doubleclick.net
+||translate.googleapis.com
+||tronscan.org
 !----------------update ruels by LogicTower end-----------------
 ||afreecatv.com
 ||agnesb.fr
@@ -8330,7 +8332,6 @@ ultrasurf
 @@||khm3.googleapis.com
 @@||khmdb.googleapis.com
 @@||storage.googleapis.com
-@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
