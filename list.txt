@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: RUQxDQQ+3TZ/4Q+xqLFjiw
+! Checksum: Fbj0RLtCujgZpBOA74JDlw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 01 Oct 2021 22:44:27 +0800
+! Last Modified: Sat, 02 Oct 2021 19:56:34 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -40,6 +40,7 @@
 ||cubecloud.net
 ||tokenview.com
 ||bybt.com
+||igotp.com
 !----------------update ruels by LogicTower end-----------------
 ||afreecatv.com
 ||agnesb.fr
